@@ -1,5 +1,6 @@
 CUSTOMER SERVICE:
 
+
 <img width="1917" height="1021" alt="Screenshot 2026-07-23 191203" src="https://github.com/user-attachments/assets/c2d24629-e641-4ecd-a920-8b169f7f0646" />
 
 <img width="1917" height="1015" alt="Screenshot 2026-07-23 191232" src="https://github.com/user-attachments/assets/cd8c62b8-4fb2-4906-b34c-ec9fecb462c4" />
@@ -17,7 +18,11 @@ CUSTOMER SERVICE:
 <img width="1917" height="1026" alt="Screenshot 2026-07-23 193940" src="https://github.com/user-attachments/assets/d835ed0d-e080-4465-a20e-b658a09a04ea" />
 
 
+
+
+
 ACCOUNT SERVICE:
+
 
 <img width="1917" height="1018" alt="Screenshot 2026-07-23 191808" src="https://github.com/user-attachments/assets/17cbfd0b-e7d2-48e3-b6dd-5419b57078ce" />
 
@@ -40,7 +45,9 @@ ACCOUNT SERVICE:
 
 
 
+
 TRANSACTION SERVICE:
+
 
 <img width="1917" height="1022" alt="Screenshot 2026-07-23 192405" src="https://github.com/user-attachments/assets/addf97a4-d1f0-46b7-b054-a0810c9e39ed" />
 
@@ -51,7 +58,11 @@ TRANSACTION SERVICE:
 <img width="1917" height="1018" alt="Screenshot 2026-07-23 192547" src="https://github.com/user-attachments/assets/89ac6494-7398-40c6-9e88-9302f67107fb" />
 
 
+
+
+
 LOAN SERVICE:
+
 
 <img width="1917" height="1022" alt="Screenshot 2026-07-23 192635" src="https://github.com/user-attachments/assets/65338528-ba27-4496-93ca-9aa5b89678b9" />
 
