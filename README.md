@@ -1,5 +1,103 @@
-CUSTOMER SERVICE:
 
+# Digital Banking System
+
+A Java-based Digital Banking System built using Spring Boot and a microservices architecture. The project separates banking functionalities into independent services to improve modularity and maintainability.
+
+## Project Overview
+
+The system is organized into multiple services that handle different banking operations.
+
+## Microservices
+
+- **API Gateway** – Entry point for routing requests to backend services.
+- **Customer Service** – Manages customer information and customer-related operations.
+- **Account Service** – Handles account-related operations.
+- **Transaction Service** – Manages banking transactions.
+- **Loan Service** – Handles loan-related operations.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Cloud Gateway
+- Spring Data JPA
+- Hibernate
+- H2 Database
+- Maven
+- Jakarta Bean Validation
+- Lombok
+- Postman
+
+## Customer Service Features
+
+The Customer Service provides REST APIs for managing customer records.
+
+- Create a customer
+- Retrieve all customers
+- Retrieve a customer by ID
+- Update customer details
+- Delete a customer
+- Validate customer input
+- Handle customer-not-found errors
+
+## API Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| POST | `/customers` | Create a customer |
+| GET | `/customers` | Retrieve all customers |
+| GET | `/customers/{id}` | Retrieve a customer by ID |
+| PUT | `/customers/{id}` | Update a customer |
+| DELETE | `/customers/{id}` | Delete a customer |
+
+## Validation and Error Handling
+
+The Customer Service uses validation to check customer details, including:
+
+- Customer name must not be blank.
+- Email must have a valid format.
+- Mobile number must contain 10 digits.
+- Aadhaar number must contain 12 digits.
+- Customer-not-found errors return HTTP 404.
+- Invalid request data returns HTTP 400.
+
+## API Testing
+
+The REST API endpoints were tested using Postman.
+
+**Add your existing Postman screenshots below this heading.**
+
+## Project Structure
+
+```text
+Digital_Banking_System/
+├── API-Gateway/
+├── account-service/
+├── customer-service/
+├── loan-service/
+└── transaction-service/
+```
+
+## Future Improvements
+
+- Add authentication and authorization.
+- Improve centralized exception handling.
+- Add automated unit and integration tests.
+- Document API requests and responses.
+- Improve service configuration and deployment.
+
+## Author
+
+**Mohamed Shiaf N**
+
+B.Tech – Artificial Intelligence and Machine Learning
+
+
+
+API Testing:
+
+
+CUSTOMER SERVICE:
 
 <img width="1917" height="1021" alt="Screenshot 2026-07-23 191203" src="https://github.com/user-attachments/assets/c2d24629-e641-4ecd-a920-8b169f7f0646" />
 
