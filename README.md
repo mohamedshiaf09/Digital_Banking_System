@@ -98,11 +98,11 @@ B.Tech – Artificial Intelligence and Machine Learning
 
 
 
-API TESTING:
+## API Testing
 
 
 
-CUSTOMER SERVICE:
+### Customer Service
 
 <img width="1917" height="1021" alt="Screenshot 2026-07-23 191203" src="https://github.com/user-attachments/assets/c2d24629-e641-4ecd-a920-8b169f7f0646" />
 
@@ -124,7 +124,7 @@ CUSTOMER SERVICE:
 
 
 
-ACCOUNT SERVICE:
+### ACCOUNT SERVICE:
 
 
 <img width="1917" height="1018" alt="Screenshot 2026-07-23 191808" src="https://github.com/user-attachments/assets/17cbfd0b-e7d2-48e3-b6dd-5419b57078ce" />
@@ -164,7 +164,7 @@ TRANSACTION SERVICE:
 
 
 
-LOAN SERVICE:
+### LOAN SERVICE:
 
 
 <img width="1917" height="1022" alt="Screenshot 2026-07-23 192635" src="https://github.com/user-attachments/assets/65338528-ba27-4496-93ca-9aa5b89678b9" />
